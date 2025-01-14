@@ -1,5 +1,3 @@
-Privacy Policy for Yump Rides
-
 Effective Date: [Insert Date]
 
 Welcome to Yump Rides! Your privacy is important to us, and we are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and share information about you when you use our ride-sharing app, Yump Rides.
@@ -57,5 +55,6 @@ Yump Rides is not intended for children under the age of 13. We do not knowingly
 We may update this Privacy Policy from time to time. We will notify you of any significant changes by posting the new policy on our app and updating the effective date.
 
 8. Contact Us
-If you have any questions or concerns about this Privacy Policy, please contact us at: Email: [Insert Contact Email]
-Address: [Insert Company Address]
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+Email: support@yumprides.ca
