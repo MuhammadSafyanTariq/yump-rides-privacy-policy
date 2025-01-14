@@ -1,4 +1,4 @@
-Effective Date: [Insert Date]
+Effective Date: 14 January 2025
 
 Welcome to Yump Rides! Your privacy is important to us, and we are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and share information about you when you use our ride-sharing app, Yump Rides.
 
