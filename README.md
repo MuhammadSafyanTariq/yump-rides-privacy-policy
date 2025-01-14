@@ -1,60 +1,51 @@
 Effective Date: 14 January 2025
 
-Welcome to Yump Rides! Your privacy is important to us, and we are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and share information about you when you use our ride-sharing app, Yump Rides.
 
 1. Information We Collect
+We collect both personal and non-personal information from users of the Cabme app. The types of information we collect include:
+
 a. Personal Information
-We may collect the following types of personal information from you:
-
-Name, email address, phone number
-Payment information (processed securely)
-Profile picture and vehicle information (for drivers)
-Location data (for ride matching and navigation)
-Trip details, including pick-up and drop-off locations
-b. Usage Information
-We collect information about how you use our app, such as:
-
-Device information (e.g., device type, operating system)
-App usage data (e.g., features used, time spent)
-c. Location Information
-With your permission, we collect real-time location information to provide ride services, navigation, and safety features.
-
+Account Information: When you create an account, we collect personal details such as your name, phone number, email address, and payment information (such as credit/debit card details or payment processor information).
+Location Data: To provide you with accurate and real-time taxi booking services, we collect your GPS location when you use the app. This includes your current location when booking a ride and the destination you input.
+Ride History: We collect information about your ride, such as pick-up and drop-off locations, trip duration, fare, and driver details.
+Profile Information: You may provide additional information such as your profile picture or preferences related to your rides.
+b. Non-Personal Information
+Device Information: We collect technical details about your device, such as device type, operating system, IP address, app version, and browser type.
+Usage Data: We collect data related to how you interact with the app, including pages visited, time spent on the app, and interactions with features such as ride requests or payment processing.
 2. How We Use Your Information
-We use the information we collect to:
+We use your information for the following purposes:
 
-Provide and improve our ride-sharing services
-Facilitate ride requests and matches
-Process payments and prevent fraud
-Communicate with you about your rides and app updates
-Enhance safety and security
-Personalize your experience and provide relevant content
-3. Sharing Your Information
-We do not sell your personal information. However, we may share your information with:
+Providing and Improving Services: To process your bookings, manage your rides, and deliver an optimal user experience.
+Location Services: To track your current location for ride pickup and drop-off, as well as provide accurate navigation for the driver.
+Customer Support: To respond to your inquiries, resolve issues, and improve our customer service.
+Communication: To send you updates, promotions, ride receipts, and other notifications related to your account or rides.
+Payment Processing: To process payments securely and facilitate transactions.
+Analytics and Research: To analyze usage patterns, enhance the app’s features, and improve the overall user experience.
+3. How We Share Your Information
+We may share your information with third parties in the following situations:
 
-Drivers and passengers (for ride matching)
-Service providers (e.g., payment processors, customer support)
-Legal authorities (if required by law)
-Partners and affiliates (with your consent)
-4. Data Security
-We implement industry-standard security measures to protect your personal information. However, no method of transmission or storage is completely secure, and we cannot guarantee absolute security.
+Service Providers: We share your information with third-party service providers (such as payment processors, cloud services, or analytics providers) who assist in operating and improving the app.
+Law Enforcement and Legal Requirements: We may disclose your information if required by law, regulation, legal process, or to protect the rights, property, or safety of Cabme, our users, or others.
+Business Transfers: In the event of a merger, acquisition, or sale of our assets, your information may be transferred as part of that transaction.
+With Your Consent: We may share your information with third parties when you give explicit consent.
+4. Data Retention
+We retain your personal information for as long as necessary to fulfill the purposes outlined in this Privacy Policy or as required by law. If you delete your account, we will retain certain information for a period of time to comply with legal obligations, resolve disputes, and enforce our agreements.
 
-5. Your Rights and Choices
-a. Access and Update
-You can access and update your personal information through the app.
+5. Security of Your Information
+We take reasonable measures to protect your information from unauthorized access, alteration, or disclosure. However, no method of transmission over the internet or method of electronic storage is 100% secure. We cannot guarantee the absolute security of your personal information.
 
-b. Location Information
-You can control location data collection through your device settings.
+6. Your Rights and Choices
+Depending on your jurisdiction, you may have certain rights regarding your personal information, including:
 
-c. Communication Preferences
-You can opt out of receiving promotional communications by following the instructions in the communications or through app settings.
+Access: You have the right to access the personal data we hold about you.
+Correction: You can request correction of any inaccurate or incomplete information.
+Deletion: You may request deletion of your personal information, subject to certain legal exceptions.
+Opt-out of Marketing: You can opt-out of receiving marketing communications from us at any time by following the instructions in the email or contacting us directly.
+Location Data: You can disable location tracking in your device settings, although this may limit some functionality of the app.
+To exercise any of these rights, please contact us using the information provided in the “Contact Us” section below.
 
-6. Children's Privacy
-Yump Rides is not intended for children under the age of 13. We do not knowingly collect personal information from children.
+7. Children's Privacy
+Cabme does not knowingly collect or solicit personal information from anyone under the age of 16. If we learn that we have collected personal information from a child under 16, we will delete that information as soon as possible. If you believe that we may have information from or about a child under 16, please contact us immediately.
 
-7. Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. We will notify you of any significant changes by posting the new policy on our app and updating the effective date.
-
-8. Contact Us
-If you have any questions or concerns about this Privacy Policy, please contact us at:
-
-Email: support@yumprides.ca
+8. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time to reflect changes in our practices, technology, or legal requirements. We will notify you of any significant changes by posting the updated policy on the app or via email. The updated policy will be effective as of the date specified at the top of this page.
